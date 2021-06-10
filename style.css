@@ -1,0 +1,52 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+.top-banner{
+    background-image: url(personal-website/header-bg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position:bottom;
+    float: left;
+
+}
+.highlight{
+    font-size: 40px;
+    font-weight: bolder;
+    color: deeppink;
+}
+#color{
+    color: dimgray;
+    font-weight: 700;
+}
+.halfwidth{
+  width: 40%;
+  height: 80%;
+  margin: 5%;
+  float: left;
+}
+#button{
+    text-decoration: none;
+    font-weight: bolder;
+    background-image: linear-gradient(rgb(228, 97, 167),deeppink);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+
+#im{
+    width: 80%;
+    height: 80%;
+    float: left;
+}
+.writing{
+    margin-left: 5%;
+}
+.middle-banner{
+    background-image: url(personal-website/biography-bg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position:bottom;
+    float: left;
+}
+
